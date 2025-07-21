@@ -1,5 +1,8 @@
 # Sentiment Analysis Flask App
 
+[![Watch the video](images/video_thumbnail.png)](https://github.com/msarvesh2022/huggingface-sentiment/blob/main/file/freecompress-Sentiment%20Analysis%20and%208%20more%20pages%20-%20Profile%201%20-%20Microsoft_%20Edge%202025-07-21%2012-36-07.mp4)
+
+
 This is a simple web app that uses a HuggingFace model to analyze the sentiment of user reviews.
 
 ## Features
