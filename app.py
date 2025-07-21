@@ -26,7 +26,7 @@ HTML_TEMPLATE = '''
         <h2 class="card-title text-center mb-4">Sentiment Analysis</h2>
         <form method="post">
           <div class="mb-3">
-            <label for="review" class="form-label">Enter your review:</label>
+            <label for="review" class="form-label">Write your review:</label>
             <textarea class="form-control" id="review" name="review" rows="5" placeholder="Type your review here...">{{ review or '' }}</textarea>
           </div>
           <div class="d-grid gap-2">
