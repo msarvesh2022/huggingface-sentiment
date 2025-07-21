@@ -3,7 +3,8 @@
 
 ## Here is the video 👀👀👀
 
-[![Watch the video](https://img.youtube.com/vi/U94WWMUfGZI/0.jpg)](https://youtu.be/U94WWMUfGZI)
+[![Watch the video](https://github.com/msarvesh2022/huggingface-sentiment/blob/main/file/Gemini_Generated_Image_ni3jldni3jldni3j.png?raw=true)](https://youtu.be/U94WWMUfGZI)
+
 
 
 This is a simple web app that uses a HuggingFace model to analyze the sentiment of user reviews.
