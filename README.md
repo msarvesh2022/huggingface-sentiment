@@ -1,5 +1,7 @@
 # Sentiment Analysis Flask App
-![mages](https://github.com/msarvesh2022/huggingface-sentiment/blob/main/file/sentiment1.png)
+![Demo images](https://github.com/msarvesh2022/huggingface-sentiment/blob/main/file/sentiment1.png)
+
+![Demo images](https://github.com/msarvesh2022/huggingface-sentiment/blob/main/file/sentiment2.png)
 
 ## Here is the video 👀👀👀
 
