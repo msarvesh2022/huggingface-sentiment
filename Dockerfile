@@ -12,7 +12,7 @@ COPY . /app
 RUN pip install --no-cache-dir -r requirements.txt
 
 # port
-EXPOSE 5000
+EXPOSE 8080
 
 
 
